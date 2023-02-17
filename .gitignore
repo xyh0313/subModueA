@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+dist/*/*
+dist/*/*.js
+dist/*/*.gz
+dist/*/*.map
+
+h5/node_modules
+
+ui-test/*/iot-lib/*.js
+h5/*/iot-lib/*.js
+
+.idea
+.vscode
+.DS_Store
